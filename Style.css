@@ -1,0 +1,83 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color: antiquewhite;
+    background-color: rgb(255, 130, 72);
+    font-style: italic;
+    height: 60px;
+    padding-top: 30px;
+}
+
+img{
+   border-radius: 70%;
+   width: 50%;
+   height: 600px;
+   margin-left: 370px;
+}
+section.container1{
+border: 3px solid black;
+text-align: center;
+user-select: none;
+width: 233px;
+margin-top: 50px;
+margin-left: 550px;
+box-sizing: border-box;
+}
+.button1{
+    background-color: rgb(185, 0, 0);
+    border: 3px solid black;
+    color: aliceblue;
+    font-size: x-large;
+    text-align: center;
+    width: 333px;
+    margin-top: 50px;
+    margin-left: 500px;
+    box-sizing: border-box;
+    height: 80px;
+
+     }
+
+     .button1:hover{
+         box-shadow: 8px 8px 40px 10px red;
+     }
+     .button2:hover{
+    box-shadow: 5px 5px 20px 10px grey;
+}
+     .button2{
+        background-color: rgb(255, 254, 254);
+        border: 3px solid black;
+        color: rgb(0, 0, 0);
+        font-size: x-large;
+        text-align: center;
+        width: 333px;
+        margin-top: 50px;
+        margin-left: 500px;
+        box-sizing: border-box;
+        height: 80px;
+    }   
+
+    div.container{
+        background-color: rgb(160, 0, 0);
+        text-align: center;
+        padding-top: 50px;
+        word-spacing: 80px;
+        color: aliceblue;
+        height: 80px;
+        width: 100%;
+        margin-top: 50px;
+        
+
+    }
+
+ .container>a{ text-decoration: none;
+        border-bottom: 1px dotted;
+        color: aliceblue;
+       
+    }
+
+    a:hover{
+        color: blue;
+        
+    }
+
+     
